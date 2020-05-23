@@ -4,7 +4,7 @@
   "description": "API server to access couchDB",
   "main": "loadBalancer.js",
   "scripts": {
-    "test": "node loadBalancer.js"
+    "test": "node ab.js"
   },
   "author": "Aayush Mehta",
   "license": "ISC",
